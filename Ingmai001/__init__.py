@@ -1,2 +1,2 @@
 # __init__.py
-from Ingmai001.studentclass import Student,SpecailStudent 
+from Ingmai001.studentclass import Student,SpecialStudent 
